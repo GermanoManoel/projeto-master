@@ -263,7 +263,7 @@ div.simples-booking{
         position: absolute;
         top: 38rem;
         left:-0.5rem;
-        transform: scale(90%);
+        transform: scale(85%);
         text-align: center;
     }
 }
@@ -432,7 +432,7 @@ div.simples-booking{
         z-index: 1;
         padding-top:15px;
     }
-    
+
     div.simples-booking{
         position: absolute;
         top: 34rem;
