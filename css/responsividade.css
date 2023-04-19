@@ -1,0 +1,421 @@
+@media all and (max-width:1024px){
+    div.designer-fundo{
+    position: absolute;
+    top: 0rem;
+    left: -13rem;
+    height:35rem;
+    width: 32rem;
+    background-color: hsl(264, 100%, 61%);
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    z-index: -1;
+}
+
+main.smartphone{
+    margin: 30px;
+    height: 31.3rem;
+    max-width: 15.5rem;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+    z-index: -1px;
+    position: relative;
+    top: 2rem;
+    left: 14rem;
+    transform: scale(93%);
+    z-index: 1;
+    transition: 1s;
+}
+
+div.simples-booking{
+    position: absolute;
+    top: 15rem;
+    left:35rem ;
+}
+
+}
+
+@media screen and (max-width:1070px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -10rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 14rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+    
+    div.simples-booking{
+        position: absolute;
+        top: 15rem;
+        left:35rem;
+    }
+    
+}
+
+@media screen and (max-width:688px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -10rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 16.5rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+    
+    div.simples-booking{
+        position: absolute;
+        top: 40rem;
+        left:8rem;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:640px){
+    div.simples-booking{
+        position: absolute;
+        top: 40rem;
+        left:6rem;
+        text-align: center;
+    }
+}
+
+
+@media screen and (max-width:560px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -8rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 14rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+
+    div.simples-booking{
+        position: absolute;
+        top: 40rem;
+        left:4rem;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:510px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -16rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 11rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+
+    div.simples-booking{
+        position: absolute;
+        top: 40rem;
+        left:2rem;
+        text-align: center;
+    }
+}
+@media screen and (max-width:499px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -17.2rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 9rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+
+    div.simples-booking{
+        position: absolute;
+        top: 36rem;
+        left:1rem;
+        text-align: center;
+        transform:scale(80%);
+    }
+}
+
+@media screen and (max-width:414px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -20rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 6.2rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+    
+    div.simples-booking{
+        position: absolute;
+        top: 38rem;
+        left:-0.5rem;
+        transform: scale(90%);
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:412px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -20rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 6.2rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+    
+    div.simples-booking{
+        position: absolute;
+        top: 38rem;
+        left:-0.5rem;
+        transform: scale(90%);
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:393px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -20rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 6.2rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+    
+    div.simples-booking{
+        position: absolute;
+        top: 36rem;
+        left:-1rem;
+        transform: scale(80%);
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:375px){
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -21.5rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 5rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+    
+    div.simples-booking{
+        position: absolute;
+        top: 36rem;
+        left:-2rem;
+        transform: scale(80%);
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:360px) {
+    div.designer-fundo{
+        position: absolute;
+        top: 0rem;
+        left: -22rem;
+        height:35rem;
+        width: 32rem;
+        background-color: hsl(264, 100%, 61%);
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        z-index: -1;
+    }
+    
+    main.smartphone{
+        margin: 30px;
+        height: 31.3rem;
+        max-width: 15.5rem;
+        background-color: white;
+        border-radius: 25px;
+        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
+        z-index: -1px;
+        position: relative;
+        top: 2rem;
+        left: 4.5rem;
+        transform: scale(93%);
+        z-index: 1;
+        transition: 1s;
+    }
+    
+    div.simples-booking{
+        position: absolute;
+        top: 36rem;
+        left:-2rem;
+        transform: scale(80%);
+        text-align: center;
+    }
+}
