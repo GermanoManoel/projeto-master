@@ -321,7 +321,7 @@ div.simples-booking{
     
     main.smartphone{
         margin: 30px;
-        height: 31.6rem;
+        height: 31.3rem;
         max-width: 15.5rem;
         background-color: white;
         border-radius: 25px;
@@ -329,7 +329,7 @@ div.simples-booking{
         z-index: -1px;
         position: relative;
         top: 1.5rem;
-        left: 6.2rem;
+        left: 5.9rem;
         transform: scale(93%);
         z-index: 1;
         transition: 1s;
@@ -339,7 +339,7 @@ div.simples-booking{
         position: absolute;
         top: 36rem;
         left:-1rem;
-        transform: scale(80%);
+        transform: scale(75%);
         text-align: center;
     }
 }
@@ -409,7 +409,7 @@ div.simples-booking{
     
     main.smartphone{
         margin: 30px;
-        height: 31.6rem;
+        height: 31.5rem;
         max-width: 15.5rem;
         background-color: white;
         border-radius: 25px;
@@ -417,7 +417,7 @@ div.simples-booking{
         z-index: -1px;
         position: relative;
         top: 0.5rem;
-        left: 4.5rem;
+        left: 3.9rem;
         transform: scale(100%);
         z-index: 1;
         transition: 1s;
@@ -438,7 +438,7 @@ div.simples-booking{
         position: absolute;
         top: 34rem;
         left:-2rem;
-        transform: scale(80%);
+        transform: scale(75%);
         text-align: center;
     }
 }
