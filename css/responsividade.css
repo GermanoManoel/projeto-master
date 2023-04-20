@@ -366,7 +366,7 @@ div.simples-booking{
         box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
         z-index: -1px;
         position: relative;
-        top: -0.5rem;
+        top: 0.5rem;
         left: 5rem;
         transform: scale(93%);
         z-index: 1;
@@ -391,6 +391,7 @@ div.simples-booking{
         transform: scale(80%);
         text-align: center;
     }
+    
 }
 
 @media screen and (max-width:360px) {
@@ -415,7 +416,7 @@ div.simples-booking{
         box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.712);
         z-index: -1px;
         position: relative;
-        top: -0.5rem;
+        top: 0.5rem;
         left: 4.5rem;
         transform: scale(100%);
         z-index: 1;

@@ -229,7 +229,7 @@ p.preco2{
 }
 
 div.display div.enviar-mensagem{
-    height: 30px;
+    height: 20px 10px;
     background-color: white;
     margin: 13px 10px 10px;
     border-radius: 20px;
@@ -252,7 +252,7 @@ div.circulo-envio{
     font-weight: bold;
     border-radius: 20px;
     transform: scale(80%);
-    margin-left: 4.8rem;
+    margin-left: 5rem;
 }
 
 div.circulo-envio p{
